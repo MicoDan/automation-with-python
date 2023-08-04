@@ -14,7 +14,7 @@ Clone this repository to your local machine:
 Copy code
 ---
 
-git clone https://github.com/your-username/python-automation-toolkit.git
+git clone https://github.com/MicoDan/automation-with-python.git
 Install the required dependencies:
 
 
