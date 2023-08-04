@@ -11,7 +11,6 @@ Installation
 
 Clone this repository to your local machine:
 -------------------------------
-bash
 Copy code
 ---
 
